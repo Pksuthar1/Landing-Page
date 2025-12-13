@@ -90,6 +90,7 @@ header button:hover{
 .section h5{
     text-align: end;
     padding-right: 20px;
+    padding-bottom:20px;
 }
 img{
     width:250px;
@@ -156,4 +157,5 @@ section button{
 #a-tag a{
     display:block;
 }
+
 
