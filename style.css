@@ -9,6 +9,7 @@ header{
     display:flex;
    justify-content: space-around;
    background-color:#D9D9D9;
+   flex-wrap:wrap;
    align-items: center;
    gap:30px;
 }
@@ -115,6 +116,7 @@ img{
     background-color: #D9D9D9;
     display: flex;
     justify-content:space-around;
+     flex-wrap:wrap;
     
 }
 section{
@@ -157,5 +159,6 @@ section button{
 #a-tag a{
     display:block;
 }
+
 
 
