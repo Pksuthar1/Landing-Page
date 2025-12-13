@@ -48,7 +48,7 @@ header button:hover{
     cursor: pointer;
 }
 #hero{
-    height:200px;
+   min-height:200px;
    padding:20px 20px;
    color:aliceblue;
    background-color: #3F1919;
@@ -133,13 +133,13 @@ section a{
 }
 #cr{
     background-color: #E26464;
-    width:80%;
+    width:100%;
     margin:auto;
     height: 75px;
     display: flex;
     justify-content: baseline;
     align-items: center;
-    flex-wrap:wrap;
+    /* flex-wrap:wrap; */
 }
 #cr{
     color:aliceblue;
@@ -161,6 +161,7 @@ section button{
 #a-tag a{
     display:block;
 }
+
 
 
 
