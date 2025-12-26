@@ -111,13 +111,13 @@ img{
     background-color: #3F1919;
 }
 #ftr{
-    width:100%;
+    width:80vw;
     min-height:325px;
     margin:auto;
     background-color: #D9D9D9;
     display: flex;
     justify-content:space-around;
-     /* flex-wrap:wrap; */
+     flex-wrap:wrap;
     
 }
 section{
@@ -161,6 +161,7 @@ section button{
 #a-tag a{
     display:block;
 }
+
 
 
 
